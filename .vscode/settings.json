@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "GCD_LCM.C": "cpp",
+        "XA+YB.C": "cpp",
+        "SLL.C": "cpp"
+    }
+}
